@@ -1,0 +1,188 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Horizonte",
+        "imagen": "./img/abrigos/06.jpg",
+        "categoria": {
+            "nombre": "Paisajes",
+            "id": "paisajes"
+        },
+        "precio": 0.99
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Solo eres tu",
+        "imagen": "./img/abrigos/07.jpg",
+        "categoria": {
+            "nombre": "Paisajes",
+            "id": "paisajes"
+        },
+        "precio": 0.01
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Solo soy yo",
+        "imagen": "./img/abrigos/08.jpg",
+        "categoria": {
+            "nombre": "Paisajes",
+            "id": "paisajes"
+        },
+        "precio": 0.49
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Donde estamos",
+        "imagen": "./img/abrigos/009.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 3.39
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Detras de mi",
+        "imagen": "./img/abrigos/010.jpg",
+        "categoria": {
+            "nombre": "Paisajes",
+            "id": "paisajes"
+        },
+        "precio": 7.49
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Sin Rumbo",
+        "imagen": "./img/camisetas/011.jpg",
+        "categoria": {
+            "nombre": "Abstracto",
+            "id": "abstracto"
+        },
+        "precio": 0
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Adrenalina",
+        "imagen": "./img/camisetas/012.jpg",
+        "categoria": {
+            "nombre": "Abstracto",
+            "id": "abstracto"
+        },
+        "precio": 0
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Perspectiva",
+        "imagen": "./img/camisetas/013.jpg",
+        "categoria": {
+            "nombre": "Abstracto",
+            "id": "abstracto"
+        },
+        "precio": 0
+    },
+   
+    {
+        "id": "camiseta-04",
+        "titulo": "Ver lo que uno no ve",
+        "imagen": "./img/camisetas/004.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 0
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Camiseta 05",
+        "imagen": "./img/camisetas/003.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 0
+    },
+
+
+    {
+        "id": "camiseta-06",
+        "titulo": "Ver solo",
+        "imagen": "./img/camisetas/005.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 0
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Camiseta 07",
+        "imagen": "./img/camisetas/002.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 0
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Camiseta 08",
+        "imagen": "./img/camisetas/006.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 0
+    },
+
+    
+
+    {
+        "id": "pantalon-01",
+        "titulo": "Flores Amarillas",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Minimalista",
+            "id": "minimalista"
+        },
+        "precio": 9.99
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Mi cielo ",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Minimalista",
+            "id": "minimalista"
+        },
+        "precio": 17.99
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Yo con el mundo",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Minimalista",
+            "id": "minimalista"
+        },
+        "precio": 29.90
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "No me importa nada",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Minimalista",
+            "id": "minimalista"
+        },
+        "precio": 15.99
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Que soy",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Minimalista",
+            "id": "minimalista"
+        },
+        "precio": 19.99
+    }
+]
