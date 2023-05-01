@@ -163,7 +163,7 @@ body{
     background-color: white;
 }
 
-/*Estilos para la caja de adelante para login del formulario*/
+/*Estilos para la caja delantera para login del formulario*/
 .micuenta_login_modal{
     display: flex;
     align-items: center;
